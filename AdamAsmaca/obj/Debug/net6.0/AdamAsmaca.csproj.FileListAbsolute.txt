@@ -1,0 +1,15 @@
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\net6.0\AdamAsmaca.exe
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\net6.0\AdamAsmaca.deps.json
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\net6.0\AdamAsmaca.runtimeconfig.json
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\net6.0\AdamAsmaca.dll
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\net6.0\AdamAsmaca.pdb
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.AssemblyInfoInputs.cache
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.AssemblyInfo.cs
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.sourcelink.json
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.dll
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\refint\AdamAsmaca.dll
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.pdb
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\AdamAsmaca.genruntimeconfig.cache
+C:\Users\BAYDEMIR\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\net6.0\ref\AdamAsmaca.dll
